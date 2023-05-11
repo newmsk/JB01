@@ -7,7 +7,7 @@ https://www.autoitscript.com/cgi-bin/countdown.pl?code/LZSS.zip
 
 ## Install
 ```shell
-pip install jb01
+pip install git+https://github.com/newmsk/JB01
 ```
 
 ## Usage
